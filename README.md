@@ -7,6 +7,8 @@
 
 - 🌱 Currently learning: **Fortran**
 
+- Current projects -  Planetary System Simulator and Machine Learning for Astronomy
+
 - 👨‍💻 Explore my projects at [planckestein0578.github.io/bhaswan-portfolio](https://planckestein0578.github.io/bhaswan-portfolio/)
 
 - 📫 Reach me at: **planckestein0578@gmail.com**
